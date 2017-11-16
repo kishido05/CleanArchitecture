@@ -8,8 +8,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.jpac.android.core.data.common.annotation.Screen;
-
 import java.lang.annotation.Annotation;
 
 import butterknife.ButterKnife;

@@ -1,4 +1,4 @@
-package com.jpac.android.core.data.common.annotation;
+package com.jpac.android.core.ui.base;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

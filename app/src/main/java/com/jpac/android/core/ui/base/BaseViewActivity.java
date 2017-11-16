@@ -4,8 +4,6 @@ import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 
-import com.jpac.android.core.data.common.annotation.Screen;
-
 import java.lang.annotation.Annotation;
 
 import butterknife.ButterKnife;
